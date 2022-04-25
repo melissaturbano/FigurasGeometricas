@@ -1,0 +1,15 @@
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\bin\Debug\net6.0\FigurasGeometricas.exe
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\bin\Debug\net6.0\FigurasGeometricas.deps.json
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\bin\Debug\net6.0\FigurasGeometricas.runtimeconfig.json
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\bin\Debug\net6.0\FigurasGeometricas.dll
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\bin\Debug\net6.0\FigurasGeometricas.pdb
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.csproj.AssemblyReference.cache
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.AssemblyInfoInputs.cache
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.AssemblyInfo.cs
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.csproj.CoreCompileInputs.cache
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.dll
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\refint\FigurasGeometricas.dll
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.pdb
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\FigurasGeometricas.genruntimeconfig.cache
+C:\Users\jrald\Desktop\exercicio\FigurasGeometricas\obj\Debug\net6.0\ref\FigurasGeometricas.dll
